@@ -12,6 +12,7 @@
   },
   "homepage": "https://github.com/michaelhannasaleh/hw9-profile-generator",
   "dependencies": {
+    "axios": "^0.19.1",
     "fs": "0.0.1-security",
     "html-pdf": "^2.2.0",
     "inquirer": "^7.0.3",

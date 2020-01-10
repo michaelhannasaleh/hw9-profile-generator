@@ -13,3 +13,5 @@ Number of public repositories
 Number of followers
 Number of GitHub stars
 Number of users following
+
+![](demo.gif)
