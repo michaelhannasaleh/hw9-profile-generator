@@ -1,0 +1,20 @@
+{
+  "name": "developer-profile-generator",
+  "version": "1.0.0",
+  "description": "Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelhannasaleh/hw9-profile-generator.git"
+  },
+  "homepage": "https://github.com/michaelhannasaleh/hw9-profile-generator",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.3",
+    "open": "^7.0.0"
+  }
+}
